@@ -1,11 +1,12 @@
+import './Global.css'
+import { Time_date } from './Components/Time_and_Date/Time_and_date'
 
-import './App.css'
 
 function App() {
 
   return (
     <>
-
+      <Time_date />
 
     </>
   )
